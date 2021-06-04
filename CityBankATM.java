@@ -32,7 +32,7 @@ public class CityBankATM {
                 System.out.println("PRESS [3] TO CHANGE PIN CODE");
                 System.out.println("PRESS [4] TO CASH IN ACCOUNT");
                 System.out.println("PRESS [5] TO VIEW ACCOUNT DATA");
-                System.out.println("PRESS [6] TO EXIT111");
+                System.out.println("PRESS [6] TO EXIT111222");
 
                 int choice = scanner.nextInt();
 
